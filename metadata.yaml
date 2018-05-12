@@ -1,5 +1,8 @@
 _repo: Old-Ticonderoga-a-Picture-of-the-Past-From---The-Snow-Image-and-Other-Twice-Told-Tales--_9242
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hawthorne, Nathaniel
@@ -10,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
 description: As Hawthorne visits the area of Ticonderoga, he visualizes the battles
   and historic events that once happened there.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9242#Old-Ticonderoga-a-Picture-of-the-Past-From---The-Snow-Image-and-Other-Twice-Told-Tales--
 gutenberg_issued: '2005-11-01'
 gutenberg_type: Text
 identifiers:
